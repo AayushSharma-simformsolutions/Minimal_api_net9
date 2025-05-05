@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V_10404658_01\\Desktop\\Sentry\\POC-Minimal_api_net9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44017A42-4A43-405B-B032-10AA2DFB84B4}|POC-Minimal_api_net9.csproj|c:\\users\\v_10404658_01\\desktop\\sentry\\poc-minimal_api_net9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44017A42-4A43-405B-B032-10AA2DFB84B4}|POC-Minimal_api_net9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44017A42-4A43-405B-B032-10AA2DFB84B4}|POC-Minimal_api_net9.csproj|c:\\users\\v_10404658_01\\desktop\\sentry\\poc-minimal_api_net9\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44017A42-4A43-405B-B032-10AA2DFB84B4}|POC-Minimal_api_net9.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44017A42-4A43-405B-B032-10AA2DFB84B4}|POC-Minimal_api_net9.csproj|c:\\users\\v_10404658_01\\desktop\\sentry\\poc-minimal_api_net9\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{44017A42-4A43-405B-B032-10AA2DFB84B4}|POC-Minimal_api_net9.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V_10404658_01\\Desktop\\Sentry\\POC-Minimal_api_net9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\V_10404658_01\\Desktop\\Sentry\\POC-Minimal_api_net9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAHwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:03:45.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appdbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\V_10404658_01\\Desktop\\Sentry\\POC-Minimal_api_net9\\Appdbcontext.cs",
+              "RelativeDocumentMoniker": "Appdbcontext.cs",
+              "ToolTip": "C:\\Users\\V_10404658_01\\Desktop\\Sentry\\POC-Minimal_api_net9\\Appdbcontext.cs",
+              "RelativeToolTip": "Appdbcontext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:05:20.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\V_10404658_01\\Desktop\\Sentry\\POC-Minimal_api_net9\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "C:\\Users\\V_10404658_01\\Desktop\\Sentry\\POC-Minimal_api_net9\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-20T13:13:46.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
